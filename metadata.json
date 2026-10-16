@@ -1,0 +1,8 @@
+{
+  "name": "아케이드 게임 생성기 - 관리형 에이전트",
+  "description": "네 가지 재미있는 질문에 답하고, 나만을 위해 꾸며진 3D 아케이드 게임기에서 나만의 맞춤형 픽셀 아트 게임을 즐겨보세요.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
